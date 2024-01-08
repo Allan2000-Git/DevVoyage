@@ -42,6 +42,7 @@ These instructions will help you get a copy of the project up and running on you
 5. Open your web browser and go to http://localhost:5173 to view the app.
 
 ## Technologies Used
+- React.js
 - Node.js
 - Express.js
 - MongoDB
